@@ -1,0 +1,22 @@
+#p1{
+   font-family: 'Tilt Prism';
+  font-style: normal;
+   
+}
+#p2{
+   font-family: 'Borel';
+  font-style: normal;
+  font-weight: 400; 
+}
+#p3{
+    font-family: 'Bricolage Grotesque';
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: 100%;
+}
+#i{
+.fa-truck-fast{
+    color:aqua;
+    font-size: 32px;
+}
+}
